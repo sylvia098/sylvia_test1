@@ -1,5 +1,5 @@
 # it is a test to practice git
-# 
+# for sss 1
 # 
 # 
 #  num_list = []
