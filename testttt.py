@@ -1,4 +1,8 @@
-# num_list = []
+# it is a test to practice git
+# 
+# 
+# 
+#  num_list = []
 # num_list.append(11)
 # num_list.append(22)
 # for i in range(6):
